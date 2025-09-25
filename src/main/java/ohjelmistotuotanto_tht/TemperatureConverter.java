@@ -1,4 +1,4 @@
-package ohjelmistotuotanto_tht.week3;
+package ohjelmistotuotanto_tht;
 
 public class TemperatureConverter {
 

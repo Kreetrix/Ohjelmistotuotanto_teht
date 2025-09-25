@@ -1,4 +1,4 @@
-package ohjelmistotuotanto_tht.week3;
+package ohjelmistotuotanto_tht;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
